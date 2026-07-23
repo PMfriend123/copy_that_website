@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <title>Ugly HTML</title>
+    <link rel="website" href="website.css">
+</head>
+<body>
+   <nav>
+       <img src="asc_logo.png">
+       <div>Home</div>
+       <div>About</div>
+       <div>Contact</div>
+       <div>Blah blah</div>
+
+   </nav>
+
+</body>
+</html>
